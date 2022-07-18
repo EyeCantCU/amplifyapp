@@ -1,13 +1,15 @@
 {
   "auth": {
-    "amplifyapp87bb65a5": {
+    "notes1808024c": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
       "customAuth": false,
       "frontendAuthConfig": {
         "socialProviders": [],
-        "usernameAttributes": [],
+        "usernameAttributes": [
+          "EMAIL"
+        ],
         "signupAttributes": [
           "EMAIL"
         ],
@@ -26,7 +28,7 @@
     }
   },
   "api": {
-    "noteapp": {
+    "notes": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -36,8 +38,8 @@
             "authenticationType": "API_KEY",
             "apiKeyConfig": {
               "apiKeyExpirationDays": 365,
-              "apiKeyExpirationDate": "2023-07-17T21:39:10.688Z",
-              "description": "demo"
+              "apiKeyExpirationDate": "2023-07-18T00:09:31.690Z",
+              "description": ""
             }
           },
           "additionalAuthenticationProviders": []

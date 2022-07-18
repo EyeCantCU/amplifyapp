@@ -1,6 +1,6 @@
 export type AmplifyDependentResourcesAttributes = {
     "auth": {
-        "amplifyapp87bb65a5": {
+        "notes1808024c": {
             "IdentityPoolId": "string",
             "IdentityPoolName": "string",
             "UserPoolId": "string",
@@ -11,16 +11,10 @@ export type AmplifyDependentResourcesAttributes = {
         }
     },
     "api": {
-        "noteapp": {
+        "notes": {
             "GraphQLAPIKeyOutput": "string",
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
-        }
-    },
-    "storage": {
-        "media": {
-            "BucketName": "string",
-            "Region": "string"
         }
     }
 }

@@ -1,7 +1,7 @@
 {
   "resourceName": "media",
-  "policyUUID": "3220b93a",
-  "bucketName": "amplifyapp2a157017970d4469977a06623c2f3173",
+  "policyUUID": "cdf1577e",
+  "bucketName": "notes",
   "storageAccess": "auth",
   "guestAccess": [],
   "authAccess": [
