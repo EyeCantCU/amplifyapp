@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# AWS Full-Stack Notes App
+
+This app was created via the documentation provided here: https://aws.amazon.com/getting-started/learning-path-full-stack-developer/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
